@@ -8,6 +8,7 @@ into the game. Hope you try it out!
 
 
 HOW TO PLAY:
+
 Player 1 - W to move up, A to move left, S to move down,
 D to move right, F to fire
 
